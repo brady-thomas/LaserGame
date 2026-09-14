@@ -1,6 +1,6 @@
 class LaserController extends Component {
     update() {
-        this.transform.position.y -= 1
+        this.transform.position.y -= 4
     }
 
 
